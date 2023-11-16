@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   stack:
   - apiVersion: v2
+    appVersion: 0.30.0
+    created: "2023-11-16T15:21:33.70386036Z"
+    description: A Helm chart for Kubernetes
+    digest: 1cae1634d43a84c8a00e4c29612d495cbc3d8e3ae574e6a14966e6593ec1776d
+    name: stack
+    type: application
+    urls:
+    - https://github.com/chanzuckerberg/chanzuckerberg/happy/releases/download/fix-chart-index-yaml/stack-0.30.0.tgz
+    version: 0.30.0
+  - apiVersion: v2
     appVersion: 0.3.0
     created: "2023-10-16T13:17:33.660319606Z"
     description: A new description21
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/chanzuckerberg/hayden-test/releases/download/happy-stack-helm-chart-v0.18.0/stack-0.18.0.tgz
     version: 0.18.0
-generated: "2023-10-16T13:17:33.659134014Z"
+generated: "2023-11-16T15:21:33.702873566Z"
